@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+.container{
+    margin: auto;
+    border-radius: 20px;
+    background-color: aliceblue;
+    width: fit-content;
+    height: fit-content;
+
+}
+.create{
+    background-color: aqua;
+    width: 80px;
+    margin: auto;
+    text-decoration: none;
+}
+.create a{
+    text-decoration: none;
+}
+input{
+    border-top-left-radius: 5px;
+    width: 70%;
+    height: 30px;
+}
+img{
+    width: 30px;
+    height: 20px;
+}
+.create:hover{
+    background-color: rgb(150, 228, 24);
+}
